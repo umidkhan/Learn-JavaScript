@@ -35,10 +35,10 @@ Yuqoridagi shartlarni eslab qolish yaxshidir, chunki ular Internetdagi ishlab ch
 
 Dvigatellar murakkab. Lekin asoslar oson.
 
-Dvigatel (agar u brauzer bo'lsa, o'rnatilgan) skriptni o'qiydi ("tahlillaydi").
-Keyin u skriptni mashina kodiga o'zgartiradi ("kompilyatsiya qiladi").
-Va keyin mashina kodi juda tez ishlaydi.
-Dvigatel jarayonning har bir bosqichida optimallashtirishni qo'llaydi. U hatto tuzilgan skriptni ishlayotganini kuzatib boradi, u orqali o'tadigan ma'lumotlarni tahlil qiladi va shu bilimlar asosida mashina kodini yanada optimallashtiradi.
+    1. Dvigatel (agar u brauzer bo'lsa, o'rnatilgan) skriptni o'qiydi ("tahlillaydi").
+    2. Keyin u skriptni mashina kodiga o'zgartiradi ("kompilyatsiya qiladi").
+    3. Va keyin mashina kodi juda tez ishlaydi.
+    4. Dvigatel jarayonning har bir bosqichida optimallashtirishni qo'llaydi. U hatto tuzilgan skriptni ishlayotganini kuzatib boradi, u orqali o'tadigan ma'lumotlarni tahlil qiladi va shu bilimlar asosida mashina kodini yanada optimallashtiradi.
 
 * * *
 
