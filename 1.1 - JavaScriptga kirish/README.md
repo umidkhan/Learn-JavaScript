@@ -1,6 +1,6 @@
 ``` js 
 
-<h1>JavaScript nima?</h1>
+### JavaScript nima?
 
 JavaScript dastlab "veb-sahifalarni jonli qilish" uchun yaratilgan.
 
