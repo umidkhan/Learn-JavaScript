@@ -8,6 +8,9 @@ function setCity(city) {
   this.city = city;
 }
 
+Object.prototype.greet = function () {
+  return `Greetings from ${this.city}`;
+}; // add custom function to Object Prototype
 Object.assign(setCity.prototype, hiPrototype);
 
 const newCity = new setCity("London");
